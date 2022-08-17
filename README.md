@@ -9,7 +9,7 @@
 
 ---
 
-![myproject](/images/dancing.jpg)
+![myproject](/screenshots/project-14.png)
 
 ---
 
